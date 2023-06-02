@@ -1,6 +1,14 @@
 ![MasterHead](https://phoneky.co.uk/thumbs/screensavers/down/computer/loadingnex_h48x9kqi.gif)
-<h1 align="center">Hi 👋, I'm Mertcan Peker</h1>
+<h1 align="center">Hi There!👋 İt's Me! Mertcan Peker</h1>
 <h3 align="center">A passionate Frontend/Backend Web Developer from Turkey</h3>
+
+- 🔭 I’m currently working on **Personal WebSite**
+
+- 🌱 I’m currently learning **Unreal Engine**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **mertcanpeker34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
