@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertcaann&" alt="mertcaann" /></p>
 
 
-https://github.com/mertcaann/mertcaann/blob/output/github-contribution-grid-snake.gif
+
